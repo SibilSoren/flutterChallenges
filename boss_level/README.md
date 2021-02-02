@@ -1,4 +1,4 @@
-# boss_level
+# Boss Level
 
 A new Flutter application.
 
